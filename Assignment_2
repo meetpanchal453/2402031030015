@@ -1,1 +1,1267 @@
+about.html
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Language Learning Community
+  </title>
+  <link href="about.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
+ </head>
+ <body>
+    <nav class="navbar">
+        <div class="container">
+         <div class="logo">
+          <img alt="Logo" src="logo-regular-free-img-png0.png"/>
+         
+         </div>
+         <div id="navbar_own" >
+            <a href="home.html">
+                Home
+               </a>
+               <a href="cources.html">
+                Courses
+               </a>
+               <a href="teachers.html">
+                Our Teachers
+               </a>
+               <a href="about.html">
+                About
+               </a>
+               <a href="contact.html">
+                Contact
+               </a>
+         </div>
+         
+         
+         <div class="login-button">
+          <button>
+            <a href="login.html"> Log in</a>
+          </button>
+         </div>
+        </div>
+       </nav>
+  <!-- Header -->
+  <header class="header">
+   <img alt="Background image of people learning" class="header-image" src="background04.png"/>
+   <div class="header-overlay">
+    <h1 class="header-title">
+     About
+    </h1>
+    <p class="header-subtitle">
+     We are an online language learning community lorem ipsum dolor sit amet.
+    </p>
+   </div>
+  </header>
+  <!-- Main Content -->
+  <main class="main-content">
+   <section class="intro-section">
+    <h2 class="intro-title">
+     We connect students and teachers
+    </h2>
+    <p class="intro-subtitle">
+     Lorem ipsum dolor sit amet, consectetur.
+    </p>
+    <p class="intro-text">
+     Eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </p>
+   </section>
+   <section class="features-section">
+    <div class="feature">
+     <h3 class="feature-title">
+      Consectetur adipisicing elit, sed do eiusmod tempor incididunt.
+     </h3>
+    </div>
+    <div class="feature">
+     <h3 class="feature-title">
+      Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+     </h3>
+    </div>
+   </section>
+   <section class="image-section">
+    <img alt="Group of people learning together" class="image" src="about-us-01-free-img-jpg0.png"/>
+   </section>
+   <section class="benefits-section">
+    <div class="benefit">
+     <h4 class="benefit-title">
+      Learn a new language online anywhere, anytime!
+     </h4>
+    </div>
+    <div class="benefit">
+     <h4 class="benefit-title">
+      Customized learning
+     </h4>
+    </div>
+    <div class="benefit">
+     <h4 class="benefit-title">
+      Expert help
+     </h4>
+    </div>
+   </section>
+   <section class="logos-section">
+    <img alt="Business Insider logo" class="logo" src="figure-logo-01-free-img-png0.png"/>
+    <img alt="The Verge logo" class="logo" src="figure-logo-02-free-img-png0.png"/>
+    <img alt="TechCrunch logo" class="logo" src="figure-logo-03-free-img-png0.png"/>
+    <img alt="The Guardian logo" class="logo" src="figure-logo-04-free-img-png0.png"/>
+    <img alt="BBC logo" class="logo" src="figure-logo-05-free-img-png0.png"/>
+    <img alt="VentureBeat logo" class="logo" src="figure-logo-06-free-img-png0.png"/>
+   </section>
+   <section class="cta-section">
+    <img alt="Background image of a person learning" class="cta-background" src="background-shadow21.png"/>
+    <div class="cta-overlay">
+     <h2 class="cta-title">
+      Start learning a new language
+      <span class="cta-highlight">
+       today!
+      </span>
+     </h2>
+     <button class="cta-button">
+      Sign Up
+     </button>
+    </div>
+   </section>
+  </main>
+  <!-- Footer -->
+  <footer class="footer">
+   <div class="footer-content">
+    <div class="footer-column">
+     <h5 class="footer-title">
+      Company
+     </h5>
+     <ul class="footer-list">
+      <li>
+       <a href="#">
+        About Us
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Careers
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Press
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Blog
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="footer-column">
+     <h5 class="footer-title">
+      Support
+     </h5>
+     <ul class="footer-list">
+      <li>
+       <a href="#">
+        Help Center
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Contact Us
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Privacy Policy
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Terms of Service
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="footer-column">
+     <h5 class="footer-title">
+      Community
+     </h5>
+     <ul class="footer-list">
+      <li>
+       <a href="#">
+        Forums
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Events
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Meetups
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Blog
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="footer-column">
+     <h5 class="footer-title">
+      Contact
+     </h5>
+     <ul class="footer-list">
+      <li>
+       <a href="#">
+        Email Us
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Support Chat
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Phone Support
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        FAQs
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="footer-bottom">
+    <p>
+     © 2023 Language Learning Community. All rights reserved.
+    </p>
+   </div>
+  </footer>
+ </body>
+</html>
 
+about.css
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7fafc;
+}
+
+/* Header */
+.header {
+    position: relative;
+}
+
+.header-image {
+    width: 100%;
+    height: 390px;
+    object-fit: cover;
+}
+
+.header-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.header-title {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.header-subtitle {
+    margin-top: 1rem;
+    font-size: 1.25rem;
+}
+
+/* Main Content */
+.main-content {
+    padding: 4rem 0;
+}
+
+.intro-section {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.intro-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.intro-subtitle {
+    margin-top: 1rem;
+    font-size: 1.25rem;
+}
+
+.intro-text {
+    margin-top: 1rem;
+    color: #4a5568;
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.features-section {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    margin-bottom: 4rem;
+    padding: 0 1rem;
+}
+
+@media (min-width: 768px) {
+    .features-section {
+        grid-template-columns: 1fr 1fr;
+        padding: 0 4rem;
+    }
+}
+
+.feature {
+    text-align: center;
+}
+
+.feature-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 4rem;
+}
+
+.image {
+    border-radius: 0.5rem;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+    height: 341px;
+}
+
+.benefits-section {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    margin-bottom: 4rem;
+    padding: 0 1rem;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .benefits-section {
+        grid-template-columns: 1fr 1fr 1fr;
+        padding: 0 4rem;
+    }
+}
+
+.benefit-title {
+    font-size: 1.125rem;
+    font-weight: bold;
+}
+
+.logos-section {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 4rem;
+}
+
+.logo {
+    width: 100px;
+    height: 50px;
+}
+
+.cta-section {
+    position: relative;
+    background-color: #2d3748;
+    color: white;
+    padding: 4rem 0;
+}
+
+.cta-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.5;
+}
+
+.cta-overlay {
+    position: relative;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cta-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.cta-highlight {
+    color: #ed64a6;
+}
+
+.cta-button {
+    margin-top: 2rem;
+    padding: 0.75rem 2rem;
+    background-color: #ed64a6;
+    color: white;
+    font-weight: bold;
+    border-radius: 9999px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Footer */
+.footer {
+    background-color: #1a202c;
+    color: #a0aec0;
+    padding: 4rem 0;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 0 1rem;
+}
+
+@media (min-width: 768px) {
+    .footer-content {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        padding: 0;
+    }
+}
+
+.footer-column {
+    text-align: center;
+}
+
+.footer-title {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.footer-list {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-list li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-list a {
+    color: #a0aec0;
+    text-decoration: none;
+}
+
+.footer-list a:hover {
+    text-decoration: underline;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 4rem;
+}
+.navbar {
+    background-color: #000; /* Tailwind's bg-black */
+    color: #fff; /* Tailwind's text-white */
+    padding: 1rem 1.5rem; /* Tailwind's py-4 px-6 */
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    
+    height: 2.35rem;
+    width: 9rem;
+    margin-right: 0.5rem;
+    margin-left: -12rem;
+
+  }
+  
+  .logo-text h1 {
+    font-size: 1.125rem; /* Tailwind's text-lg */
+    font-weight: bold; /* Tailwind's font-bold */
+    margin: 0;
+  }
+  
+  .logo-text p {
+    font-size: 0.875rem; /* Tailwind's text-sm */
+    margin: 0;
+  }
+  
+  .nav-links {
+    display: none;
+  }
+  
+  .nav-links a {
+    color: #d1d5db; /* Tailwind's text-gray-300 */
+    margin-left: 1.5rem; /* Tailwind's space-x-6 */
+    text-decoration: none;
+  }
+  
+  .nav-links a:hover {
+    color: #fff; /* Tailwind's hover:text-white */
+  }
+  
+  .login-button button {
+    background-color: #ec4899; /* Tailwind's bg-pink-500 */
+    color: #fff; /* Tailwind's text-white */
+    padding: 0.5rem 1rem; /* Tailwind's px-4 py-2 */
+    border: none;
+    border-radius: 9999px; /* Tailwind's rounded-full */
+    cursor: pointer;
+  }
+  
+  .login-button button:hover {
+    background-color: #db2777; /* Slightly darker pink for hover effect */
+  }
+ .navbar #navbar_own a{
+    color: #d1d5db; /* Tailwind's text-gray-300 */
+    margin-left: 1.5rem; /* Tailwind's space-x-6 */
+    text-decoration: none;
+    
+ }
+
+home.html
+
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Language Learning
+  </title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
+  <link href="home.css" rel="stylesheet"/>
+ </head>
+ <body>
+    <nav class="navbar">
+        <div class="container">
+         <div class="logo">
+          <img alt="Logo" src="logo-regular-free-img-png0.png"/>
+         
+         </div>
+         <div class="nav-links">
+          <a href="#">
+           Home
+          </a>
+          <a href="contact.html">
+           Courses
+          </a>
+          <a href="teachers.html">
+           Our Teachers
+          </a>
+          <a href="about.html">
+           About
+          </a>
+          <a href="contact.html">
+           Contact
+          </a>
+         </div>
+         <div class="login-button">
+          <button>
+            <a href="login.html"> Log in</a>
+          </button>
+         </div>
+        </div>
+       </nav>
+  <!-- Header Section -->
+   
+  <header class="header">
+   <img alt="Header background image" class="header-img" src="background0.png"/>
+   <div class="header-content">
+    <h1>
+     Start
+     <span class="highlight">
+      learning
+     </span>
+     a new language today
+     <span class="highlight">
+      with the best
+     </span>
+     online tutors!
+    </h1>
+    <button class="btn">
+     Get Started
+    </button>
+   </div>
+  </header>
+  <!-- Services Section -->
+  <section class="services">
+   <div class="container">
+    <div class="service">
+     <h2>
+      1-on-1 Tutoring
+     </h2>
+     <p>
+      Personalized lessons with expert tutors.
+     </p>
+    </div>
+    <div class="service">
+     <h2>
+      Group Classes
+     </h2>
+     <p>
+      Interactive group sessions with peers.
+     </p>
+    </div>
+    <div class="service">
+     <h2>
+      Self-Paced Learning
+     </h2>
+     <p>
+      Learn at your own pace with our resources.
+     </p>
+    </div>
+   </div>
+  </section>
+  <!-- How it Works Section -->
+  <section class="how-it-works">
+   <div class="container">
+    <h2>
+     How it all works
+    </h2>
+    <div class="how-it-works-content">
+     <img alt="How it works image" class="how-it-works-img" src="background-shadow12.png"/>
+     <div class="steps">
+      <div class="step">
+       <div class="step-number">
+        1
+       </div>
+       <p>
+        Sign up and choose your plan.
+       </p>
+      </div>
+      <div class="step">
+       <div class="step-number">
+        2
+       </div>
+       <p>
+        Schedule your lessons.
+       </p>
+      </div>
+      <div class="step">
+       <div class="step-number">
+        3
+       </div>
+       <p>
+        Start learning with our tutors.
+       </p>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <!-- Features Section -->
+  <section class="features">
+   <div class="container">
+    <div class="feature">
+     <i class="icon">
+      🌐
+     </i>
+     <h3>
+      Learn Anywhere
+     </h3>
+     <p>
+      Access lessons from any device.
+     </p>
+    </div>
+    <div class="feature">
+     <i class="icon">
+      👨‍🏫
+     </i>
+     <h3>
+      Expert Tutors
+     </h3>
+     <p>
+      Learn from the best in the industry.
+     </p>
+    </div>
+    <div class="feature">
+     <i class="icon">
+      ⏰
+     </i>
+     <h3>
+      Flexible Schedule
+     </h3>
+     <p>
+      Learn at your own pace and time.
+     </p>
+    </div>
+   </div>
+  </section>
+  <!-- Testimonials Section -->
+  <section class="testimonials">
+   <div class="container">
+
+    <div class="testimonial">
+     <img alt="User 1" class="testimonial-img" src="testimonial-09-free-img-jpg0.png"/>
+     <p>
+      "This platform has transformed my language skills!"
+     </p>
+     <p class="testimonial-name">
+      - User 1
+     </p>
+    </div>
+    <div class="testimonial">
+     <img alt="User 2" class="testimonial-img" src="testimonial-13-free-img-jpg0.png"/>
+     <p>
+      "The tutors are amazing and very supportive."
+     </p>
+     <p class="testimonial-name">
+      - User 2
+     </p>
+    </div>
+    <div class="testimonial">
+     <img alt="User 3" class="testimonial-img" src="testimonial-14-free-img-jpg0.png"/>
+     <p>
+      "I love the flexibility and the quality of lessons."
+     </p>
+     <p class="testimonial-name">
+      - User 3
+     </p>
+    </div>
+   </div>
+  </section>
+  <!-- Call to Action Section -->
+  <section class="cta">
+   <img alt="Call to action background image" class="cta-img" src="background-shadow21.png"/>
+   <div class="cta-content">
+    <h2>
+     Start learning a new language
+     <span class="highlight">
+      today!
+     </span>
+    </h2>
+    <button class="btn">
+     Get Started
+    </button>
+   </div>
+  </section>
+  <!-- Footer Section -->
+  <footer class="footer">
+   <div class="container">
+    <div class="footer-column">
+     <h3>
+      Company
+     </h3>
+     <ul>
+      <li>
+       <a href="#">
+        About Us
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Careers
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Press
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="footer-column">
+     <h3>
+      Support
+     </h3>
+     <ul>
+      <li>
+       <a href="#">
+        Help Center
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Contact Us
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Privacy Policy
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="footer-column">
+     <h3>
+      Follow Us
+     </h3>
+     <div class="social-icons">
+      <a href="#">
+       Facebook
+      </a>
+      <a href="#">
+       Twitter
+      </a>
+      <a href="#">
+       Instagram
+      </a>
+      <a href="#">
+       LinkedIn
+      </a>
+     </div>
+    </div>
+   </div>
+   <p>
+    © 2023 Language Learning. All rights reserved.
+   </p>
+  </footer>
+ </body>
+</html>
+
+home.css
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    background-color: #000; /* Tailwind's bg-black */
+    color: #fff; /* Tailwind's text-white */
+    padding: 1rem 1.5rem; /* Tailwind's py-4 px-6 */
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    height: 2.35rem;
+    width: 9rem;
+    margin-right: 45.5rem;
+    margin-left: -14rem;
+  }
+  
+  .logo-text h1 {
+    font-size: 1.125rem; /* Tailwind's text-lg */
+    font-weight: bold; /* Tailwind's font-bold */
+    margin: 0;
+  }
+  
+  .logo-text p {
+    font-size: 0.875rem; /* Tailwind's text-sm */
+    margin: 0;
+  }
+  
+  .nav-links {
+    display: none;
+  }
+  
+  .nav-links a {
+    color: #d1d5db; /* Tailwind's text-gray-300 */
+    margin-left: 1.5rem; /* Tailwind's space-x-6 */
+    text-decoration: none;
+  }
+  
+  .nav-links a:hover {
+    color: #fff; /* Tailwind's hover:text-white */
+  }
+  
+  .login-button button {
+    background-color: #ec4899; /* Tailwind's bg-pink-500 */
+    color: #fff; /* Tailwind's text-white */
+    padding: 0.5rem 1rem; /* Tailwind's px-4 py-2 */
+    border: none;
+    border-radius: 9999px; /* Tailwind's rounded-full */
+    cursor: pointer;
+  }
+  
+  .login-button button:hover {
+    background-color: #db2777; /* Slightly darker pink for hover effect */
+  }
+  
+  @media (min-width: 768px) {
+    .nav-links {
+      display: flex;
+    }
+  }
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.header {
+    position: relative;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.header-img {
+    width: 100%;
+    height: 30rem;
+    object-fit: cover;
+    opacity: 0.5;
+}
+
+.header-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header h1 {
+    font-size: 2.25rem;
+    font-weight: bold;
+}
+
+.header h1 .highlight {
+    color: #ec4899;
+}
+
+.btn {
+    margin-top: 1rem;
+    padding: 0.5rem 1.5rem;
+    background-color: #ec4899;
+    color: white;
+    border-radius: 9999px;
+    border: none;
+    cursor: pointer;
+}
+
+.services {
+    padding: 4rem 0;
+    background-color: white;
+    text-align: center;
+}
+
+.services .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.service {
+    flex: 1 1 calc(33.333% - 1rem);
+    margin: 0.5rem;
+    padding: 1.5rem;
+    background-color: #f3f4f6;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.service h2 {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.service p {
+    margin-top: 0.5rem;
+    color: #4b5563;
+}
+
+.how-it-works {
+    padding: 4rem 0;
+    background-color: #f9fafb;
+    text-align: center;
+}
+
+.how-it-works h2 {
+    font-size: 1.875rem;
+    font-weight: bold;
+}
+
+.how-it-works-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.how-it-works-img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.steps {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.step {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.step-number {
+    width: 2rem;
+    height: 2rem;
+    background-color: #ec4899;
+    color: white;
+    border-radius: 9999px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1rem;
+}
+
+.features {
+    padding: 4rem 0;
+    background-color: white;
+    text-align: center;
+}
+
+.features .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.feature {
+    flex: 1 1 calc(33.333% - 1rem);
+    margin: 0.5rem;
+}
+
+.feature .icon {
+    font-size: 4rem;
+    color: #ec4899;
+}
+
+.feature h3 {
+    margin-top: 1rem;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.feature p {
+    margin-top: 0.5rem;
+    color: #4b5563;
+}
+
+.testimonials {
+    padding: 4rem 0;
+    background-color: #f9fafb;
+    text-align: center;
+}
+
+.testimonials h2 {
+    font-size: 1.875rem;
+    font-weight: bold;
+}
+
+.testimonials .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.testimonial {
+    flex: 1 1 calc(33.333% - 1rem);
+    margin: 0.5rem;
+    padding: 1.5rem;
+    background-color: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial-img {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 9999px;
+    margin: 0 auto;
+}
+
+.testimonial p {
+    margin-top: 1rem;
+    color: #4b5563;
+}
+
+.testimonial-name {
+    margin-top: 0.5rem;
+    font-weight: bold;
+}
+
+.cta {
+    position: relative;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.cta-img {
+    width: 100%;
+    height: 24rem;
+    object-fit: cover;
+    opacity: 0.5;
+}
+
+.cta-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cta h2 {
+    font-size: 2.25rem;
+    font-weight: bold;
+}
+
+.cta h2 .highlight {
+    color: #ec4899;
+}
+
+.footer {
+    padding: 2rem 0;
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+}
+
+.footer .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer-column {
+    flex: 1 1 calc(33.333% - 1rem);
+    margin: 0.5rem;
+}
+
+.footer h3 {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.footer ul {
+    margin-top: 1rem;
+    list-style: none;
+    padding: 0;
+}
+
+.footer ul li {
+    margin-top: 0.5rem;
+}
+
+.footer ul li a {
+    color: #9ca3af;
+    text-decoration: none;
+}
+
+.footer ul li a:hover {
+    color: white;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.social-icons a {
+    color: #9ca3af;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: white;
+}
+
+.footer p {
+    margin-top: 2rem;
+    color: #9ca3af;
+}
+
+/* How it Works Section */
+.how-it-works-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.steps {
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.step {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.step-number {
+    width: 2rem;
+    height: 2rem;
+    background-color: #ec4899;
+    color: white;
+    border-radius: 9999px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1rem;
+}
